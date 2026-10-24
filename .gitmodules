@@ -1,0 +1,18 @@
+[submodule "prod_schedule_pce"]
+	path = prod_schedule_pce
+	url = https://github.com/Gopal-Dahale/prod_schedule_pce
+[submodule "qhackathon26"]
+	path = qhackathon26
+	url = https://github.com/Kolo-Naukowe-Axion/qhackathon26
+[submodule "quantum-erp-hackathon"]
+	path = quantum-erp-hackathon
+	url = https://github.com/JakubMeixner/quantum-erp-hackathon
+[submodule "QAIF2026"]
+	path = QAIF2026
+	url = https://github.com/SecludedPerson700/QAIF2026
+[submodule "QPoland-Hackathon-Submission---Rafey"]
+	path = QPoland-Hackathon-Submission---Rafey
+	url = https://github.com/rafeyc/QPoland-Hackathon-Submission---Rafey
+[submodule "qubit-efficient-qubo-and-xy-qaoa-for-shop-scheduling-qpoland-hackathon-2026"]
+	path = qubit-efficient-qubo-and-xy-qaoa-for-shop-scheduling-qpoland-hackathon-2026
+	url = https://github.com/saifibnaezhararko/qubit-efficient-qubo-and-xy-qaoa-for-shop-scheduling-qpoland-hackathon-2026
